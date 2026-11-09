@@ -1,0 +1,7 @@
+edge-tts
+groq
+gspread
+python-dotenv
+requests
+pillow
+tabulate
